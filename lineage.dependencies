@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "resurrectionremix-hero/device_samsung_hero-common",
+    "repository": "crdroidandroid-hero/device_samsung_hero-common",
     "target_path": "device/samsung/hero-common",
     "branch": "pie"
   }
